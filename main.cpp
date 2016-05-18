@@ -8,8 +8,9 @@ int main()
     cin>>m;
     beta *obj1=new beta[m];
     cout<<"Enter number of objects: ";
-    cout<<"please";
     int n;
+    int x=2, y=1;
+    cout<<x+y;
     cin>>n;
     beta *obj2=new beta[n];
     delete [] obj1;

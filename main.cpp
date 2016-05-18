@@ -10,6 +10,7 @@ int main()
     cout<<"Enter number of objects: ";
     int n;
     int x=2, y=1;
+    cin>>x;
     cout<<x+y;
     cin>>n;
     beta *obj2=new beta[n];
